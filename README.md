@@ -1,4 +1,4 @@
-# Hoospital-Management
+**Hospital Management System**
 
 The Hospital Management System project is designed to optimize healthcare administration and enhance patient care delivery. It comprises modules for Doctor Management, Patient Management, Patient Treatment, and Room Assignments, encompassing various entities crucial to the hospital management domain.
 
